@@ -1,64 +1,60 @@
 <div align="center">
 
-# Hey, I'm Kunal 👋
-### AI & Automation Developer · Building practical tools with Python, JavaScript & LLMs
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071b13,55:064e3b,100:00ff66&height=220&section=header&text=KUNAL&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20AUTOMATION%20%7C%20BUILDING%20USEFUL%20THINGS&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Kunal profile banner" />
 
-<a href="https://github.com/Kunal935"><img src="https://komarev.com/ghpvc/?username=Kunal935&style=for-the-badge&color=7c3aed" alt="Profile views"></a>
-<a href="https://github.com/Kunal935?tab=followers"><img src="https://img.shields.io/github/followers/Kunal935?style=for-the-badge&logo=github&color=181717" alt="GitHub followers"></a>
+### AI & Automation Developer
+**I build practical AI tools, conversational assistants, and automations that solve real problems.**
+
+<a href="https://github.com/Kunal935"><img src="https://img.shields.io/badge/GitHub-Kunal935-111827?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="https://github.com/Kunal935?tab=repositories"><img src="https://img.shields.io/badge/Explore-my%20projects-00c853?style=for-the-badge&logo=github" alt="Explore projects"></a>
 
 </div>
 
 ---
 
-## 🚀 What I build
+## Selected work
 
-I work on AI-powered applications and automation workflows—from conversational assistants to tools that make repetitive work simpler. I enjoy taking a rough idea, wiring the pieces together, and turning it into something people can use.
+### [Kun-AI](https://github.com/Kunal935/Kun-AI)
+An AI assistant project combining a web frontend, LLM components, memory, and Hinglish support.
 
-- 🤖 **AI assistants & LLM applications** — conversational experiences, prompt orchestration, and memory
-- ⚙️ **Automation** — practical workflows that connect services and reduce manual work
-- 🧠 **Applied AI / ML** — experiments in NLP, classification, and useful AI features
-- 🌱 Always learning, iterating, and shipping small improvements
+### [Auto Job Agent](https://github.com/Kunal935/Auto_Job_Agent)
+An AI-assisted workflow for job search and application tasks.
 
-## 🔥 Featured projects
+### [Email Threat Intel](https://github.com/Kunal935/email-threat-intel)
+A project exploring email threat intelligence.
 
-| Project | What it does |
-| --- | --- |
-| [**Kun-AI**](https://github.com/Kunal935/Kun-AI) | AI assistant project with a web frontend, LLM components, memory, and Hinglish support |
-| [**Auto Job Agent**](https://github.com/Kunal935/Auto_Job_Agent) | An AI-assisted job search and application workflow |
-| [**Email Threat Intel**](https://github.com/Kunal935/email-threat-intel) | Email threat intelligence project |
-| [**Email Spam Classifier**](https://github.com/Kunal935/EMAIL_SPAM_CLASSIFIER) | Machine learning project for spam classification |
+### [Email Spam Classifier](https://github.com/Kunal935/EMAIL_SPAM_CLASSIFIER)
+A machine learning project for spam classification.
 
-## 🧰 Tech I use
+---
+
+## Tools & technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" alt="Python, JavaScript, HTML, CSS, Git, GitHub, VS Code" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-7c3aed?style=flat-square" alt="AI and LLMs" />
-  <img src="https://img.shields.io/badge/Automation-0891b2?style=flat-square" alt="Automation" />
-  <img src="https://img.shields.io/badge/NLP-059669?style=flat-square" alt="NLP" />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-111827?style=flat-square&logo=openai&logoColor=white" alt="AI and LLMs" />
+  <img src="https://img.shields.io/badge/Automation-064e3b?style=flat-square&logo=n8n&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/NLP-047857?style=flat-square" alt="NLP" />
 </p>
 
-## 📊 GitHub at a glance
+---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kunal935&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal935&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+
+<a href="https://github.com/Kunal935"><img src="https://github-readme-stats.vercel.app/api?username=Kunal935&show_icons=true&hide_border=true&theme=transparent&title_color=00e676&icon_color=00e676&text_color=c9d1d9&bg_color=00000000" height="150" alt="GitHub stats" /></a>
+<a href="https://github.com/Kunal935?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal935&layout=compact&hide_border=true&theme=transparent&title_color=00e676&text_color=c9d1d9&bg_color=00000000" height="150" alt="Most used languages" /></a>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kunal935&theme=matrix&no-frame=true&row=1&column=6" alt="GitHub achievements" />
+
 </div>
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kunal935&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub profile trophies" />
-</p>
-
-## 🤝 Let's connect
-
-<p align="center">
-  <a href="https://github.com/Kunal935"><img src="https://img.shields.io/badge/GitHub-Kunal935-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-</p>
+---
 
 <div align="center">
-  <sub>Building useful things, one commit at a time ✨</sub>
+  <sub>Curious by default. Building one useful thing at a time. ✨</sub>
 </div>
