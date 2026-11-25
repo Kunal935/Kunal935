@@ -47,9 +47,11 @@ I work on AI-powered applications and automation workflows—from conversational
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal935&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kunal935&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kunal935&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub profile trophies" />
+</p>
 
 ## 🤝 Let's connect
 
